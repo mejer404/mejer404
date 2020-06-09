@@ -11,6 +11,10 @@ body {
   background-position: top center;
 }
 
+.avatar {
+  border-radius: 10%;
+}
+
 .container {
   max-width: 928px;
   margin: 0 auto;
@@ -112,6 +116,10 @@ body {
 
 .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.skill-java {
+  background-image: url("img/icon-java.svg");
 }
 
 .level {
